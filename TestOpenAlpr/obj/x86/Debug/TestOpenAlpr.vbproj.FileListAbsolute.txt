@@ -1,0 +1,118 @@
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+g:\shane\visual studio 2010\Projects\TestOpenAlpr\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_32Bit\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V2\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe.config
+G:\SHANE\Visual Studio 2010\Projects\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe.config
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V3\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe.config
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V4\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe.config
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V5\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe.config
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V6\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe.config
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V7\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe.config
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\bin\Debug\TestOpenAlpr.pdb
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\bin\Debug\TestOpenAlpr.xml
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbprojResolveAssemblyReference.cache
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\SHANE\EXPLORE\OpenAlpr\VB.NET_Integration\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.vbproj.GenerateResource.Cache
+D:\SHANE_2\PROJECTS_2015\My_Experiments\OpenALPR\TestOpenAlpr_V8\TestOpenAlpr\bin\Debug\TestOpenAlpr.exe.config
+D:\SHANE_2\PROJECTS_2015\My_Experiments\OpenALPR\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.exe
+D:\SHANE_2\PROJECTS_2015\My_Experiments\OpenALPR\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.xml
+D:\SHANE_2\PROJECTS_2015\My_Experiments\OpenALPR\TestOpenAlpr_V8\TestOpenAlpr\obj\x86\Debug\TestOpenAlpr.pdb
